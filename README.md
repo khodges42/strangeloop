@@ -3,6 +3,49 @@
 *A muted VS Code theme suite inspired by recursive systems theory, printer-paper academia, symbolic computation, and long nights staring into calm machines.*
 
 ---
+## Usage
+
+This theme is not currently on the VS Code Marketplace (see: *Why isn't this on the VS Code Marketplace?* below).
+
+Install manually:
+
+```bash
+code --install-extension strangeloop-0.0.1.vsix
+```
+
+Then open the command palette:
+
+`Ctrl+Shift+P`
+
+Select:
+
+`Preferences: Color Theme`
+
+Choose:
+- `Strangeloop Dark`
+- `Strangeloop Paper`
+
+---
+## Screenshots
+
+### Strangeloop Dark
+
+![Strangeloop Dark](docs/darkmode.png)
+
+---
+
+### Strangeloop Paper
+
+![Strangeloop Paper](docs/lightmode.png)
+
+
+## Why isn't this on the VS Code Marketplace?
+
+I made this theme for myself to satisfy my synesthesia, perceptual preferences, and various other idiosyncrasies.
+
+I didn't feel like dealing with the whole Microsoft Marketplace process, and honestly I like weird little software artifacts that just exist on GitHub sometimes.
+
+If you like the theme and want it on the marketplace, feel free to publish it yourself. Maybe send me a message or mention me somewhere if you do. Glad you liked it.
 
 ## Inspiration
 

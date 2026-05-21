@@ -3,12 +3,17 @@
   "displayName": "strangeloop",
   "description": "A muted VS Code theme suite inspired by recursive systems theory, printer-paper academia, and long nights staring into calm machines.",
   "version": "0.0.1",
+  "publisher": "khodges42",
   "engines": {
-    "vscode": "^1.120.0"
+    "vscode": "^1.73.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khodges42/strangeloop"
+  },
   "contributes": {
     "themes": [
       {
