@@ -1,0 +1,26 @@
+{
+  "name": "strangeloop",
+  "displayName": "strangeloop",
+  "description": "A muted VS Code theme suite inspired by recursive systems theory, printer-paper academia, and long nights staring into calm machines.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "strangeloop-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/strangeloop-color-theme-dark.json"
+      },
+      {
+        "label": "strangeloop-light",
+        "uiTheme": "vs-light",
+        "path": "./themes/strangeloop-color-theme-light.json"
+      }
+    ]
+  }
+}
