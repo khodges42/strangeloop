@@ -30,13 +30,13 @@ Choose:
 
 ### Strangeloop Dark
 
-![Strangeloop Dark](docs/darkmode.png)
+![Strangeloop Dark](docs/images/darkmode.png)
 
 ---
 
 ### Strangeloop Paper
 
-![Strangeloop Paper](docs/lightmode.png)
+![Strangeloop Paper](docs/images/lightmode.png)
 
 
 ## Why isn't this on the VS Code Marketplace?
